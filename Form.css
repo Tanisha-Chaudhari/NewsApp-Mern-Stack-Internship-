@@ -1,0 +1,27 @@
+.news-form {
+    padding: 20px;
+  }
+  
+  .news-form label {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .news-form input,
+  .news-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .news-form button {
+    background-color: #00cfcf;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  

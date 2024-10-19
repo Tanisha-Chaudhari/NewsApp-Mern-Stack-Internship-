@@ -1,0 +1,22 @@
+.news-detail {
+    padding: 20px;
+  }
+  
+  .detail-image {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin: 10px 0;
+  }
+  
+  .actions {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
+  }
+  
+  .actions i {
+    font-size: 20px;
+    cursor: pointer;
+  }
+  

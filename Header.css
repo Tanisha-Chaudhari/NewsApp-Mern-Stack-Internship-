@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #00cfcf;
+    padding: 10px 20px;
+    border-radius: 20px 20px 0 0;
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+  }
+  
+  .icon img {
+    width: 24px;
+    height: 24px;
+  }
+  
